@@ -1,0 +1,15 @@
+{
+    "name": "microbitusarthmi",
+    "version": "0.3",
+    "description": "這是micro:bit的Usart Hmi控制積木",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/microbitusarthmi-strings.json"
+    ],
+    "public": true
+}
